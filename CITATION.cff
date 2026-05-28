@@ -1,6 +1,6 @@
-﻿cff-version: 1.2.0
-message: "If you use this code, please cite the associated manuscript and archived software release."
-title: "Unified Patterns of Topological Structure of Hydrological Characteristics in Global River Networks"
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and this software release."
+title: "River topology and hydrological scaling analysis code"
 authors:
   - family-names: Zhao
     given-names: Chensong
@@ -29,6 +29,6 @@ authors:
   - family-names: Zhong
     given-names: Deyu
 repository-code: "https://github.com/P1AYERChris/river-topology-hydrology"
-license: MIT
+license: "MIT"
 version: "v1.0.1"
-date-released: 2026-05-28
+date-released: "2026-05-28"
