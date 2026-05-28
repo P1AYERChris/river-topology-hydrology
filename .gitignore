@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Local data and generated outputs
+data/raw/
+data/external/
+data/processed/
+outputs/
+figures/output/
+*.tif
+*.tiff
+
+# Large GIS sidecar files should be downloaded from source data portals
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.gpkg
+
