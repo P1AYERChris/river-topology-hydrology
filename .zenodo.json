@@ -1,0 +1,31 @@
+{
+"title": "Unified Patterns of Topological Structure of Hydrological Characteristics in Global River Networks",
+"upload_type": "software",
+"description": "Analysis and figure-generation code associated with the manuscript "Unified Patterns of Topological Structure of Hydrological Characteristics in Global River Networks". Chensong Zhao is the lead author and Deyu Zhong is the corresponding author.",
+"creators": [
+{ "name": "Zhao, Chensong" },
+{ "name": "Ke, Qihua" },
+{ "name": "Cao, Yuan" },
+{ "name": "Liu, Shutong" },
+{ "name": "Wei, Randongfang" },
+{ "name": "Xie, Di" },
+{ "name": "Wang, Jinqiang" },
+{ "name": "Huang, Jingwei" },
+{ "name": "Zhang, Qingqing" },
+{ "name": "Gao, Jiahui" },
+{ "name": "Li, Jing" },
+{ "name": "Wang, Guangqian" },
+{ "name": "Zhong, Deyu" }
+],
+"license": "MIT",
+"keywords": [
+"river networks",
+"Horton-Strahler order",
+"HydroATLAS",
+"HydroBASINS",
+"hydrological characteristics",
+"river topology",
+"hydrological scaling"
+],
+"access_right": "open"
+}
