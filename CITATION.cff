@@ -3,33 +3,33 @@ message: "If you use this code, please cite the associated manuscript and archiv
 title: "Unified Patterns of Topological Structure of Hydrological Characteristics in Global River Networks"
 authors:
 
-* family-names: Zhao
+- family-names: Zhao
   given-names: Chensong
-* family-names: Ke
+- family-names: Ke
   given-names: Qihua
-* family-names: Cao
+- family-names: Cao
   given-names: Yuan
-* family-names: Liu
+- family-names: Liu
   given-names: Shutong
-* family-names: Wei
+- family-names: Wei
   given-names: Randongfang
-* family-names: Xie
+- family-names: Xie
   given-names: Di
-* family-names: Wang
+- family-names: Wang
   given-names: Jinqiang
-* family-names: Huang
+- family-names: Huang
   given-names: Jingwei
-* family-names: Zhang
+- family-names: Zhang
   given-names: Qingqing
-* family-names: Gao
+- family-names: Gao
   given-names: Jiahui
-* family-names: Li
+- family-names: Li
   given-names: Jing
-* family-names: Wang
+- family-names: Wang
   given-names: Guangqian
-* family-names: Zhong
+- family-names: Zhong
   given-names: Deyu
   repository-code: "https://github.com/P1AYERChris/river-topology-hydrology"
   license: MIT
-  version: "v1.0.0"
+  version: "v1.0.1"
   date-released: 2026-05-28
